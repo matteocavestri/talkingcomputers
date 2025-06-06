@@ -4,4 +4,5 @@ Talking Computers Youtube repo
 
 ## Contents
 
-- [https://youtu.be/RQScl14TpBk](Nginx nel 2025: deployment di NPMPLUS !) --> `/homelab-101/docker/npmplus`
+- [Nginx nel 2025 | NPMPLUS](https://youtu.be/RQScl14TpBk) --> `/homelab-101/docker/npmplus`
+- [BASTA PUBBLICITA' | deployment PIHOLE+UNBOUND 2025]() --> `/homelab-101/docker/pihole`
