@@ -4,5 +4,6 @@ Talking Computers Youtube repo
 
 ## Contents
 
-- [Nginx nel 2025 | NPMPLUS](https://youtu.be/RQScl14TpBk) --> `/homelab-101/docker/npmplus`
-- [BASTA PUBBLICITA' | deployment PIHOLE+UNBOUND 2025](https://youtu.be/dIcAJZD59IY) --> `/homelab-101/docker/pihole`
+- [Proteggi il tuo HOMELAB con NGINX del futuro | NPMPlus](https://youtu.be/RQScl14TpBk) --> [Docker Compose](docker-compose/npmplus/compose.yml)
+- [Dì Addio alla PUBBLICITÀ con PIHOLE e UNBOUND! | Guida Completa 2025](https://youtu.be/dIcAJZD59IY) --> [Docker Compose](docker-compose/pihole/compose.yml)
+- [BASTA NETFLIX!: Jellyfin nel 2025 con Docker Compose](https://youtu.be/pZDaDyozVnA) --> [Docker Compose](docker-compose/jellyfin/compose.yml)
