@@ -1,0 +1,12 @@
+services:
+  jellyfin:
+    image: jellyfin/jellyfin:latest
+    container_name: jellyfin
+    ports:
+      - 8096:8096
+    environment:
+      - JELLYFIN_PublishedServerUrl=https://jellyfin.example.com
+    volumes:
+      - ./config:/config
+      - /mnt/media:/media
+    restart: unless-stopped
